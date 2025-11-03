@@ -28,7 +28,7 @@ function handleImageError(img) {
 // Chargement des articles
 async function loadArticles() {
     try {
-        const response = await fetch('./data/articles4.json');
+        const response = await fetch('./data/articles.json');
         if (!response.ok) {
             throw new Error('Erreur lors du chargement des articles');
         }
