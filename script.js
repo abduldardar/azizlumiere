@@ -17,6 +17,14 @@ function updateDateTime() {
     }
 }
 
+// Fonction pour gérer les erreurs d'images
+function handleImageError(img) {
+    // Créer une image de remplacement en base64 SVG
+    const fallbackSVG = `data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjRjBGMEYwIi8+CjxwYXRoIGQ9Ik0zNSAzNUg2NVY2NUgzNVYzNVoiIGZpbGw9IiNDOEM4QzgiLz4KPHRleHQgeD0iNTAiIHk9Ijc1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzk5OSI+SW1hZ2U8L3RleHQ+Cjx0ZXh0IHg9IjUwIiB5PSI4NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjgiIGZpbGw9IiM5OTkiPm5vbiBkaXNwbzwvdGV4dD4KPC9zdmc+`;
+    img.src = fallbackSVG;
+    img.alt = "Image non disponible";
+}
+
 // Chargement des articles
 async function loadArticles() {
     try {
@@ -82,7 +90,7 @@ function createArticleElement(article) {
     articleDiv.className = 'article-card';
     
     articleDiv.innerHTML = `
-        <img src="${article.url_image}" alt="${article.titre}" class="article-image">
+        <img src="${article.url_image}" alt="${article.titre}" class="article-image" onerror="handleImageError(this)">
         <div class="article-content">
             <span class="article-date">${formatDate(article.date)}</span>
             <h3 class="article-title">${article.titre}</h3>

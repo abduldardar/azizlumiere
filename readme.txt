@@ -56,3 +56,4 @@ Site vitrine high-tech zen présentant l'actualité et les progrès récents dan
 - Compatible avec tous les navigateurs modernes
 - Design responsive (s'adapte aux mobiles et tablettes)
 - Les images sont chargées depuis Unsplash (libres de droit)
+- Gestion des erreurs d'images intégrée

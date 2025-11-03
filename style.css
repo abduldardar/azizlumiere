@@ -151,6 +151,11 @@ body {
     width: 100%;
     height: 200px;
     object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.article-card:hover .article-image {
+    transform: scale(1.05);
 }
 
 .article-content {
@@ -335,6 +340,19 @@ footer {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 20px;
+}
+
+/* Fallback pour les images manquantes */
+.article-image:before {
+    content: "Image non disponible";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    color: #6c757d;
+    font-size: 0.9rem;
+    height: 100%;
+    width: 100%;
 }
 
 /* Responsive */
