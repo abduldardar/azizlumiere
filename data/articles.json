@@ -1,0 +1,60 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "titre": "OpenAI présente GPT-4o : un modèle multimodal plus rapide et accessible",
+      "date": "2023-10-15",
+      "resume": "OpenAI a dévoilé GPT-4o, une version optimisée de son modèle phare GPT-4. Cette nouvelle version offre des performances améliorées en traitement multimodal (texte, image, audio) avec une latence réduite de 30%. Le modèle est désormais accessible via l'API à un coût inférieur, rendant la technologie plus abordable pour les développeurs et entreprises. GPT-4o intègre également des améliorations en raisonnement complexe et en compréhension contextuelle.",
+      "lien_source": "https://openai.com/blog/gpt-4o",
+      "url_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "titre": "Anthropic dévoile Claude 3.5 Sonnet avec des capacités de raisonnement avancé",
+      "date": "2023-10-10",
+      "resume": "Anthropic a annoncé Claude 3.5 Sonnet, la dernière version de son modèle de langage axé sur la sécurité et l'alignement. Ce modèle présente des améliorations significatives en raisonnement complexe, en compréhension de contextes longs et en résolution de problèmes mathématiques. Claude 3.5 Sonnet montre également des progrès remarquables dans la détection et le rejet des requêtes potentiellement dangereuses, renforçant l'approche d'Anthropic en matière d'IA responsable.",
+      "lien_source": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "url_image": "https://images.unsplash.com/photo-1677442135337-6d73b56c4dc5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "titre": "Mistral AI lance Mixtral 8x22B : un modèle open source compétitif",
+      "date": "2023-10-05",
+      "resume": "La startup française Mistral AI a présenté Mixtral 8x22B, un modèle à architecture mixture-of-experts (MoE) open source. Avec 22 milliards de paramètres activés sur 141 milliards totaux, ce modèle rivalise avec les performances de GPT-4 tout en étant plus efficace en calcul. Mixtral 8x22B excelle particulièrement dans les tâches de raisonnement en français et en anglais, renforçant la position de Mistral AI dans le paysage compétitif de l'IA générative.",
+      "lien_source": "https://mistral.ai/news/mixtral-8x22b/",
+      "url_image": "https://images.unsplash.com/photo-1677442136014-af5a5c7c6d54?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "titre": "Meta ouvre l'accès à Llama 3 avec des capacités multimodales étendues",
+      "date": "2023-09-28",
+      "resume": "Meta a annoncé le déploiement de Llama 3, sa dernière génération de modèles de langage open source. Cette version introduit des capacités multimodales natives permettant de traiter simultanément texte, images et audio. Llama 3 est disponible en plusieurs tailles (8B, 70B et 405B paramètres) et montre des performances compétitives dans les benchmarks standards. Meta a également amélioré les mécanismes de sécurité et d'alignement, facilitant l'adoption responsable par la communauté.",
+      "lien_source": "https://ai.meta.com/blog/meta-llama-3/",
+      "url_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "titre": "Google DeepMind présente Gemini 1.5 Pro avec un contexte d'un million de tokens",
+      "date": "2023-09-20",
+      "resume": "Google DeepMind a dévoilé Gemini 1.5 Pro, un modèle multimodal capable de traiter un contexte d'un million de tokens. Cette capacité sans précédent permet au modèle d'analyser des documents extrêmement longs, des vidéos complètes ou de vastes bases de code. Gemini 1.5 Pro montre des améliorations significatives en raisonnement mathématique et scientifique, ainsi qu'une meilleure compréhension des instructions complexes. Le modèle utilise une architecture MoE innovante pour maintenir l'efficacité malgré le contexte étendu.",
+      "lien_source": "https://deepmind.google/technologies/gemini/pro/",
+      "url_image": "https://images.unsplash.com/photo-1677442136014-af5a5c7c6d54?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 6,
+      "titre": "Hugging Face lance Transformer Agents pour l'orchestration de modèles",
+      "date": "2023-09-15",
+      "resume": "Hugging Face a introduit Transformer Agents, un framework open source permettant d'orchestrer plusieurs modèles d'IA pour accomplir des tâches complexes. Ce système permet à un agent principal de décomposer une requête en sous-tâches et d'utiliser les modèles spécialisés les plus adaptés pour chaque étape. Transformer Agents supporte plus de 100 000 modèles de la plateforme Hugging Face, offrant une flexibilité sans précédent pour la composition de capacités d'IA.",
+      "lien_source": "https://huggingface.co/blog/transformer-agents",
+      "url_image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 7,
+      "titre": "DeepSeek présente DeepSeek-Coder avec des capacités de programmation avancées",
+      "date": "2023-09-10",
+      "resume": "DeepSeek a lancé DeepSeek-Coder, un modèle spécialisé dans la génération et la compréhension de code. Entraîné sur 2 billions de tokens de code provenant de 80 langages de programmation, ce modèle montre des performances exceptionnelles en génération de code, débogage et explication de programmes. DeepSeek-Coder intègre également des capacités de raisonnement sur le code existant et peut proposer des optimisations. Le modèle est disponible en open source, renforçant l'accessibilité des outils d'IA pour les développeurs.",
+      "lien_source": "https://www.deepseek.com/news/deepseek-coder",
+      "url_image": "https://images.unsplash.com/photo-1677442136014-af5a5c7c6d54?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}
