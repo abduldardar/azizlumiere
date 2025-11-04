@@ -55,7 +55,7 @@
       "resume": "DeepSeek a lancé DeepSeek-Coder, un modèle spécialisé dans la génération et la compréhension de code. Entraîné sur 2 billions de tokens de code provenant de 80 langages de programmation, ce modèle montre des performances exceptionnelles en génération de code, débogage et explication de programmes. DeepSeek-Coder intègre également des capacités de raisonnement sur le code existant et peut proposer des optimisations. Le modèle est disponible en open source, renforçant l'accessibilité des outils d'IA pour les développeurs du monde entier.",
       "lien_source": "https://www.deepseek.com/news/deepseek-coder",
       "url_image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
-    }
+    },
    {
       "id": 8,
       "titre": "OpenAI lance ChatGPT-5 : une avancée majeure en multimodalité et raisonnement",
