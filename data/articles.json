@@ -20,10 +20,7 @@
             "id": "3",
             "titre": "Anthropic Dépense 50 Milliards de Dollars pour ses Propres Data Centers IA",
             "date": "13 novembre 2025",
-            "resume": "Dans une course effrénée à l'infrastructure, **Anthropic** a annoncé un plan d'investissement massif de **50 milliards de dollars** pour la construction de ses propres centres de données d'intelligence artificielle aux États-Unis, en commençant par le Texas et New York. Cette initiative est une réponse directe aux investissements colossaux des concurrents (comme le projet d'OpenAI estimé à 1 400 milliards de dollars) et vise à assurer une capacité de calcul suffisante pour le développement continu de ses modèles, en particulier Claude. Le PDG d'Anthropic, Dario Amodei, a souligné que cet effort est nécessaire pour se rapprocher d'une IA capable d'accélérer les découvertes scientifiques et de résoudre des problèmes complexes. Cet investissement consolide la position d'Anthropic non seulement comme développeur de modèles, mais comme acteur majeur de l'infrastructure IA. 
-
-[Image of a massive, modern data center building]
-",
+            "resume": "Dans une course effrénée à l'infrastructure, **Anthropic** a annoncé un plan d'investissement massif de **50 milliards de dollars** pour la construction de ses propres centres de données d'intelligence artificielle aux États-Unis, en commençant par le Texas et New York. Cette initiative est une réponse directe aux investissements colossaux des concurrents (comme le projet d'OpenAI estimé à 1 400 milliards de dollars) et vise à assurer une capacité de calcul suffisante pour le développement continu de ses modèles, en particulier Claude. Le PDG d'Anthropic, Dario Amodei, a souligné que cet effort est nécessaire pour se rapprocher d'une IA capable d'accélérer les découvertes scientifiques et de résoudre des problèmes complexes. Cet investissement consolide la position d'Anthropic non seulement comme développeur de modèles, mais comme acteur majeur de l'infrastructure IA.",
             "lien_source": "https://fr.themedialeader.com/anthropic-investit-50-milliards-dans-ses-data-centers/",
             "url_image": "https://images.pexels.com/photos/4096058/pexels-photo-4096058.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
@@ -31,10 +28,7 @@
             "id": "4",
             "titre": "C# et Go Secouent l'Index TIOBE : L'Impact Indirect de l'IA sur la Programmation",
             "date": "17 novembre 2025",
-            "resume": "Bien que n'étant pas une avancée directe dans les LLM, l'Index TIOBE de novembre 2025 révèle des tendances importantes pour les professionnels de l'informatique : le langage **C#** enregistre la plus forte croissance et menace de détrôner Java, tandis que **Go** quitte le top 10. Python conserve la première place, mais sa croissance semble marquer le pas. L'essor de C# est souvent lié à l'écosystème **Microsoft Azure** et à son intégration forte avec les outils d'IA et de *copilot* (comme Copilot de Microsoft), illustrant comment la demande croissante pour des applications d'IA générative dans l'entreprise influence le choix et la popularité des langages de programmation back-end et cloud. Cette dynamique montre que les technologies associées à l'IA transforment concrètement le paysage du développement logiciel. 
-
-[Image of abstract code lines with C# and Python logos]
-",
+            "resume": "Bien que n'étant pas une avancée directe dans les LLM, l'Index TIOBE de novembre 2025 révèle des tendances importantes pour les professionnels de l'informatique : le langage **C#** enregistre la plus forte croissance et menace de détrôner Java, tandis que **Go** quitte le top 10. Python conserve la première place, mais sa croissance semble marquer le pas. L'essor de C# est souvent lié à l'écosystème **Microsoft Azure** et à son intégration forte avec les outils d'IA et de *copilot* (comme Copilot de Microsoft), illustrant comment la demande croissante pour des applications d'IA générative dans l'entreprise influence le choix et la popularité des langages de programmation back-end et cloud. Cette dynamique montre que les technologies associées à l'IA transforment concrètement le paysage du développement logiciel.",
             "lien_source": "https://programmation.developpez.com/actu/377723/Index-TIOBE-de-novembre-2025-C-connait-la-plus-forte-croissance-et-menace-de-ravir-la-4e-place-a-Java-tandis-que-Go-quitte-le-top-10-Python-reste-en-tete-mais-semble-avoir-atteint-un-plateau/",
             "url_image": "https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
