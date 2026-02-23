@@ -55,6 +55,31 @@
             "resume": "Selon un récent rapport de la **Cour des comptes** publié en novembre 2025, la France se positionne dans le Top 5 mondial en matière de **recherche et de formation en Intelligence Artificielle**, soulignant le succès de la première phase de sa stratégie nationale. Cependant, le rapport met en lumière un échec significatif dans la **diffusion de l'IA au sein des PME et dans le système éducatif**. Pendant que les laboratoires et startups parisiennes rayonnent à l'international (comme l'illustre la montée de Mistral AI), une grande partie du tissu économique national risque de rester spectatrice de la révolution. La Cour des comptes insiste sur la nécessité de renforcer le pilotage interministériel de la politique d'IA pour mieux intégrer cette technologie au service du bien commun et amplifier les transferts vers l'industrie. ",
             "lien_source": "https://www.clubic.com/actualite-587632-la-france-dans-le-top-5-mondial-sur-l-intelligence-artificielle-c-est-la-cour-des-comptes-qui-le-dit.html",
             "url_image": "https://images.pexels.com/photos/4096058/pexels-photo-4096058.jpeg?auto=compress&cs=tinysrgb&w=600"
-        }
+        },
+        {
+              "id": "8",
+              "titre": "OpenAI publie GPT‑5.2, nouvelle génération d’IA générale",
+              "date": "2025-12-11",
+              "resume": "OpenAI a annoncé le lancement de son modèle GPT‑5.2, conçu pour améliorer la compréhension contextuelle, les capacités de programmation et l’exécution de tâches complexes en plusieurs étapes. Cette mise à jour fait suite à une directive interne visant à accélérer la R&D face à la concurrence accrue, notamment de Google et de sa famille Gemini. GPT‑5.2 inclut des versions Instant, Thinking et Pro, déployées auprès des utilisateurs payants, tandis que les versions précédentes restent disponibles via l’API. L’annonce s’accompagne d’un investissement stratégique de partenaires industriels pour soutenir le développement d’applications multimodales avancées.",
+              "lien_source": "https://www.reuters.com/technology/openai-launches-gpt-52-ai-model-with-improved-capabilities-2025-12-11/",
+              "url_image": "https://images.pexels.com/photos/5474044/pexels-photo-5474044.jpeg"
+            },
+            {
+              "id": "9",
+              "titre": "Anthropic publie Claude Opus 4.6 et Sonnet 4.6, mises à jour majeures",
+              "date": "2026-02-05",
+              "resume": "Anthropic a dévoilé deux mises à jour significatives de sa famille Claude. Claude Opus 4.6 propose une fenêtre de contexte étendue jusqu’à 1 million de tokens en version bêta et améliore les performances sur des tâches de codage, de raisonnement et de planification agentique. Claude Sonnet 4.6 poursuit l’optimisation des usages professionnels, avec un positionnement tarifaire stable. Ces évolutions renforcent la compétitivité d’Anthropic face aux acteurs majeurs du marché.",
+              "lien_source": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+              "url_image": "https://images.unsplash.com/photo-1581092334720-8b35b6aedcb0"
+            },
+            {
+              "id": "10",
+              "titre": "Google DeepMind lance Gemini 3.1 Pro pour les tâches complexes",
+              "date": "2026-02-19",
+              "resume": "Google DeepMind a présenté Gemini 3.1 Pro, conçu pour résoudre des problèmes complexes nécessitant un raisonnement avancé. Le modèle étend les capacités multimodales existantes avec une fenêtre de contexte élargie et de meilleures performances sur des benchmarks scientifiques et de programmation. Il est accessible via l’API Gemini et Vertex AI, consolidant la stratégie cloud IA de Google.",
+              "lien_source": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+              "url_image": "https://images.pexels.com/photos/6078121/pexels-photo-6078121.jpeg"
+            },
+        
     ]
 }
