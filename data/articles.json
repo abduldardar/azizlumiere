@@ -79,6 +79,38 @@
               "resume": "Google DeepMind a présenté Gemini 3.1 Pro, conçu pour résoudre des problèmes complexes nécessitant un raisonnement avancé. Le modèle étend les capacités multimodales existantes avec une fenêtre de contexte élargie et de meilleures performances sur des benchmarks scientifiques et de programmation. Il est accessible via l’API Gemini et Vertex AI, consolidant la stratégie cloud IA de Google.",
               "lien_source": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
               "url_image": "https://images.pexels.com/photos/6078121/pexels-photo-6078121.jpeg"
+            },
+            {
+              "id": "11",
+              "titre": "Zhipu AI lance GLM‑5, modèle open‑source de nouvelle génération",
+              "date": "2026-02-11",
+              "resume": "La startup chinoise Zhipu AI a dévoilé GLM‑5, un modèle open‑source massif optimisé pour le raisonnement et les systèmes agentiques. Distribué sous licence ouverte, GLM‑5 vise à concurrencer les modèles propriétaires occidentaux en offrant des performances élevées sur des benchmarks de codage et d’analyse complexe. Cette initiative renforce la dynamique open‑source mondiale en IA.",
+              "lien_source": "https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-new-flagship-model-glm-5-2026-02-11/",
+              "url_image": "https://images.unsplash.com/photo-1581092334627-334e94ed1edd"
+            },
+            {
+              "id": "12",
+              "titre": "OpenAI lance GPT‑5.3 Codex, spécialisé dans la programmation",
+              "date": "2026-02-05",
+              "resume": "OpenAI a introduit GPT‑5.3‑Codex, une déclinaison spécialisée pour le développement logiciel. Le modèle améliore la rapidité d’exécution et la précision des suggestions de code par rapport aux générations précédentes. Il s’intègre aux environnements de développement modernes afin d’automatiser la correction, la refactorisation et la génération de fonctions complexes.",
+              "lien_source": "https://medium.com/@YousfiAymane/the-week-that-changed-ai-forever-february-2026s-historic-model-releases-be59fb18f809",
+              "url_image": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
+            },
+            {
+              "id": "13",
+              "titre": "OpenAI rend la génération d’images GPT‑4o accessible au grand public",
+              "date": "2026-02-12",
+              "resume": "OpenAI a étendu l’accès à son moteur de génération d’images GPT‑4o, améliorant la qualité visuelle et les outils d’édition intégrés. Cette évolution marque une étape supplémentaire dans la démocratisation des capacités multimodales avancées, permettant aux utilisateurs d’exploiter des fonctions créatives sans infrastructure spécialisée.",
+              "lien_source": "https://www.reuters.com/technology/",
+              "url_image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg"
+            },
+            {
+              "id": "14",
+              "titre": "Perplexity expérimente l’agrégation multi‑modèles pour fiabiliser les réponses",
+              "date": "2026-02-07",
+              "resume": "Perplexity explore une approche consistant à interroger simultanément plusieurs grands modèles afin de produire une réponse consolidée. L’objectif est de réduire les hallucinations et d’améliorer la robustesse informationnelle grâce à un mécanisme de consensus algorithmique. Cette stratégie illustre une tendance croissante vers des architectures hybrides combinant plusieurs LLM.",
+              "lien_source": "https://www.reuters.com/technology/",
+              "url_image": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg"
             }
         
     ]
