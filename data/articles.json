@@ -79,7 +79,7 @@
               "resume": "Google DeepMind a présenté Gemini 3.1 Pro, conçu pour résoudre des problèmes complexes nécessitant un raisonnement avancé. Le modèle étend les capacités multimodales existantes avec une fenêtre de contexte élargie et de meilleures performances sur des benchmarks scientifiques et de programmation. Il est accessible via l’API Gemini et Vertex AI, consolidant la stratégie cloud IA de Google.",
               "lien_source": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
               "url_image": "https://images.pexels.com/photos/6078121/pexels-photo-6078121.jpeg"
-            },
+            }
         
     ]
 }
